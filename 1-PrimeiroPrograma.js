@@ -1,1 +1,1 @@
-console.log("Meu primeiro programa")
+console.log("Meu primeiro programa");
