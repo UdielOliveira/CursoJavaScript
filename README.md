@@ -73,7 +73,31 @@ Descubra como as comunidades Quilombolas se estendem do litoral ao interior do B
 - **Zumbi dos Palmares:**
 Conheça a figura icônica de Zumbi dos Palmares, líder do Quilombo dos Palmares, e sua impactante história de luta pela liberdade. Descubra o legado duradouro que continua a inspirar gerações.
 
-![Uploading image.png…]()
+## Produção
+
+![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/0a57ba0a-efdf-4439-bb60-406dd38d1c96)
+
+## Na pagina de Produção do nosso site voce vai explorar os seguinte topicos:
+
+- **Economia Local:**
+Desvende os meios de produção que impulsionam o desenvolvimento econômico nas comunidades Quilombolas, revelando práticas inovadoras.
+
+- **Agricultura Familiar:**
+Descubra como a agricultura familiar é a base da sustentabilidade, fortalecendo laços com a terra e garantindo a subsistência.
+
+- **Top 3 Alimentos:**
+Conheça os três alimentos chave - arroz, milho e inhame - cultivados nas comunidades Quilombolas, essenciais para a segurança alimentar e culinária local.
+
+- **Artesanato Vibrante:**
+Adentre o mundo do artesanato Quilombola, onde cada peça única conta uma história cultural rica e autêntica.
+
+- **Materiais Únicos:**
+Explore a versatilidade da palha de bananeira, o brilho do capim dourado e a resistência da piaçava, revelando a conexão singular com a natureza.
+
+
+
+
+
 
 
 
