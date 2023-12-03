@@ -2,36 +2,68 @@
 <div align="center">
     
 # Povos Originários Do Brasil - Quimlombolas
-    
-<img src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/3995d3c4-3d08-4424-8358-ecc6ecfde121"/><br>
+<img src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/331b60b5-3267-41bc-93cf-86f338e252cb"/><br>
 </div>
 
-# Barbearia
+
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+<div align="center">
 
+#
 ![GitHub repo size](https://img.shields.io/github/repo-size/K1Melo/pjct-quilombolas?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/K1Melo/pjct-quilombolas?style=for-the-badge)
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![VUE](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-![image](http://www.unow.com.br/emDesenvolvimento.gif)
-> Em desenvolvimento
+</div>
 
-## 🚀 Abrindo o Site
+# Introdução
 
-Para abrir o jogo freeway, siga estas etapas:
+Bem-vindo ao portal dedicado à rica e diversa comunidade Quilombola do Brasil. Este espaço foi criado com o objetivo de proporcionar uma visão abrangente e aprofundada sobre os diversos aspectos que compõem a identidade e a história dessas comunidades, que desempenham um papel crucial na construção da tapeçaria cultural do nosso país.
 
-windows, Macs e Linux:
-```
-<Abra seu programa de pesquisa>
-```
-```
-<Vá na URL e cole o link :>
-```
+# Abrindo o Site
+
+### Para abrir o site quilombolas basta: 
+<br>
+
+- **Abrir seu programa de pesquisa <br><br>**
+
+![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
+![Fire Fox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+- **Copiar e Colar o Link Abaixo na URL do seu Navegador <br>**
 ```
 https://udieloliveira.github.io/UdielBarbearia.github.io/
 ```
+# Sobre o Site
+## Home
+
+![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/0950b5e1-bc6b-443a-b809-5f819afc24c7)
+
+
+## Na primeira pagina do nosso site voce vai explorar os seguinte topicos:
+
+- **Origens e Resistência:**
+Descubra como as comunidades Quilombolas surgiram durante a escravidão no Brasil, fugindo em busca de liberdade e estabelecendo assentamentos independentes.
+
+- **Identidade Resiliente:**
+Conheça a diversidade única das comunidades Quilombolas, formadas por descendentes de africanos escravizados, construindo ao longo do tempo uma identidade resiliente.
+
+- **Desafios Superados:**
+Apesar das contribuições valiosas, as comunidades Quilombolas enfrentam obstáculos socioeconômicos. Saiba mais sobre suas lutas.
+
+
+
+
+
 
 <h1  align="center">🤝 Desenvolvedores</h1>
 
