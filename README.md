@@ -1,15 +1,18 @@
-# CursoJavaScript
 
-<img src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/187b7d2b-da3a-4630-8bbf-820c0c695175" width="1000px;"/><br>
-![Projeto quilombolas-2](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/b9f71701-3838-446c-886c-13099c129daa)
+<div align="center">
+    
+# Povos Originários Do Brasil - Quimlombolas
+    
+<img src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/3995d3c4-3d08-4424-8358-ecc6ecfde121"/><br>
+</div>
 
 # Barbearia
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/UdielOliveira/UdielBarbearia.github.io?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/UdielOliveira/UdielBarbearia.github.io?style=for-the-badge)
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+![GitHub repo size](https://img.shields.io/github/repo-size/K1Melo/pjct-quilombolas?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/K1Melo/pjct-quilombolas?style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
 
 
 ![image](http://www.unow.com.br/emDesenvolvimento.gif)
