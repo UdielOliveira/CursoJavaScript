@@ -44,10 +44,10 @@ Bem-vindo ao portal dedicado à rica e diversa comunidade Quilombola do Brasil. 
 https://udieloliveira.github.io/UdielBarbearia.github.io/
 ```
 # Sobre o Site
+
 ## Home
 
 ![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/0950b5e1-bc6b-443a-b809-5f819afc24c7)
-
 
 ## Na primeira pagina do nosso site voce vai explorar os seguinte topicos:
 
@@ -59,6 +59,21 @@ Conheça a diversidade única das comunidades Quilombolas, formadas por descende
 
 - **Desafios Superados:**
 Apesar das contribuições valiosas, as comunidades Quilombolas enfrentam obstáculos socioeconômicos. Saiba mais sobre suas lutas.
+
+
+## Lugares
+
+![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/3298089f-1ac9-4abb-abfe-7854c93c7c77)
+
+## Na pagina de Lugares do nosso site voce vai explorar os seguinte topicos:
+
+- **Territórios e Expansão:**
+Descubra como as comunidades Quilombolas se estendem do litoral ao interior do Brasil. Explore as peculiaridades de cada região e como essas comunidades se espalharam ao longo dos anos.
+
+- **Zumbi dos Palmares:**
+Conheça a figura icônica de Zumbi dos Palmares, líder do Quilombo dos Palmares, e sua impactante história de luta pela liberdade. Descubra o legado duradouro que continua a inspirar gerações.
+
+![Uploading image.png…]()
 
 
 
