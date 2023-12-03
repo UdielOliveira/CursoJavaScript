@@ -1,5 +1,7 @@
 # CursoJavaScript
 
+<img src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/187b7d2b-da3a-4630-8bbf-820c0c695175" width="1000px;"/><br>
+![Projeto quilombolas-2](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/b9f71701-3838-446c-886c-13099c129daa)
 
 # Barbearia
 
