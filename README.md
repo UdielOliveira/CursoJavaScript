@@ -135,10 +135,10 @@ No coração deste projeto está a valorização da cultura. Reconhecemos as ori
 
 > Acesse essa parte do site [clicando aqui](https://pjct-quilombolas.vercel.app/sobre)
 
-<h1  align="center">🤝 Desenvolvedores</h1>
-
 
 # Ferramentas de Prototipação
+
+> ### Ferramentas de prototipação são softwares especializados projetados para auxiliar designers e desenvolvedores na criação de modelos interativos que representam a interface e a funcionalidade de um website ou aplicativo. Elas possibilitam a visualização e teste de conceitos antes da implementação final, economizando tempo, recursos e assegurando uma experiência de usuário mais refinada.
 
 <!--Figma-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/6053d8ff-13d3-4e38-94d2-c1e70c6941e0"/>
@@ -203,74 +203,50 @@ Utilizamos o Photoshop para revisar protótipos visuais, proporcionando uma repr
 <!--SWwiper Js-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/967f1725-25c9-4a16-a14c-38a7de7e1df2"/>
 
-### No decorrer do nosso último projeto, o Freepik desempenhou um papel crucial na obtenção de recursos visuais de alta qualidade. Destacamos as seguintes áreas de aplicação:
+### Nesse projeto, a escolha da Biblioteca Swiper JS para a maioria dos sliders revelou-se fundamental para criar uma interface dinâmica e envolvente. Destacamos as seguintes áreas de aplicação:
 
-- **Seleção de Imagens Impactantes:**
-Utilizamos o Freepik para selecionar imagens que não apenas atendem às nossas necessidades específicas, mas também agregam valor estético e impacto visual aos nossos projetos.
+- **Destaque de Conteúdo:**
+Utilizamos a Swiper JS para destacar conteúdos importantes, garantindo que informações cruciais recebam a devida atenção por meio de sliders visualmente atrativos.
 
-- **Diversidade de Estilos e Temas:**
-A variedade de estilos e temas disponíveis no Freepik permitiu que explorássemos diferentes direções visuais, garantindo que nossos designs fossem versáteis e cativantes.
+- **Carrosséis de Imagens:**
+A biblioteca foi empregada na criação de carrosséis de imagens, permitindo a exibição eficiente de uma variedade de visualizações sem comprometer a usabilidade.
 
-- **Referências para Layouts Criativos:**
-Além de imagens, exploramos as seções de inspirações de layout, incorporando elementos e ideias inovadoras que elevaram a qualidade e originalidade de nossos designs.
+- **Integração Facilitada:**
+A Swiper JS integrou-se de forma harmoniosa ao nosso ambiente de desenvolvimento, simplificando a implementação e manutenção de sliders em diferentes seções do site.
 
-- **Agilidade no Processo Criativo:**
-A facilidade de acesso e download no Freepik contribuiu para a agilidade do nosso processo criativo, permitindo que encontrássemos e incorporássemos rapidamente elementos visuais relevantes ao nosso projeto.
+- **Adaptabilidade Responsiva:**
+Garantimos uma experiência consistente em dispositivos de diferentes tamanhos, graças à capacidade da Swiper JS de se adaptar automaticamente a diferentes resoluções e tamanhos de tela.
+
 
 <!--AOS-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/eb3ff51c-0e63-48d1-a694-d08fd9edcc6c"/>
 
-### No decorrer do nosso último projeto, o Freepik desempenhou um papel crucial na obtenção de recursos visuais de alta qualidade. Destacamos as seguintes áreas de aplicação:
+### Na construção do nosso site, a escolha da Biblioteca AOS.js para gerenciar as animações durante a rolagem foi fundamental. Destacamos as áreas específicas de aplicação desta biblioteca:
 
-- **Seleção de Imagens Impactantes:**
-Utilizamos o Freepik para selecionar imagens que não apenas atendem às nossas necessidades específicas, mas também agregam valor estético e impacto visual aos nossos projetos.
+- **Efeitos ao Rolar a Página:**
+Utilizamos a AOS para criar efeitos visuais envolventes quando o usuário rola a página para baixo, proporcionando uma experiência dinâmica e atraente.
 
-- **Diversidade de Estilos e Temas:**
-A variedade de estilos e temas disponíveis no Freepik permitiu que explorássemos diferentes direções visuais, garantindo que nossos designs fossem versáteis e cativantes.
+- **Animações de Elementos Específicos:**
+A flexibilidade da biblioteca nos permitiu aplicar animações específicas a elementos-chave do site, destacando pontos de interesse e proporcionando um toque personalizado à experiência do usuário.
 
-- **Referências para Layouts Criativos:**
-Além de imagens, exploramos as seções de inspirações de layout, incorporando elementos e ideias inovadoras que elevaram a qualidade e originalidade de nossos designs.
-
-- **Agilidade no Processo Criativo:**
-A facilidade de acesso e download no Freepik contribuiu para a agilidade do nosso processo criativo, permitindo que encontrássemos e incorporássemos rapidamente elementos visuais relevantes ao nosso projeto.
+- **Otimização Contínua:**
+A biblioteca também facilitou iterações e ajustes contínuos, permitindo-nos refinar as animações para atender melhor aos objetivos de design e proporcionar uma experiência visualmente impactante.
 
 <!--SplineJs-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/546723f1-70f3-4457-b272-41642bfaccef"/>
 
-### No decorrer do nosso último projeto, o Freepik desempenhou um papel crucial na obtenção de recursos visuais de alta qualidade. Destacamos as seguintes áreas de aplicação:
+### Em nosso projeto recente, decidimos incorporar a Biblioteca Spline para conferir um toque inovador aos modelos 3D interativos. Destacamos as seguintes áreas de aplicação:
 
-- **Seleção de Imagens Impactantes:**
-Utilizamos o Freepik para selecionar imagens que não apenas atendem às nossas necessidades específicas, mas também agregam valor estético e impacto visual aos nossos projetos.
+- **Experiências 3D Imersivas:**
+A Spline foi fundamental na criação de experiências 3D que transcendem as limitações tradicionais, proporcionando aos usuários uma imersão visual e interatividade excepcionais.
 
-- **Diversidade de Estilos e Temas:**
-A variedade de estilos e temas disponíveis no Freepik permitiu que explorássemos diferentes direções visuais, garantindo que nossos designs fossem versáteis e cativantes.
+- **Interação do Usuário Simplificada:**
+A implementação da Biblioteca Spline facilitou a interação do usuário com os modelos 3D, proporcionando uma experiência intuitiva e agradável.
 
-- **Referências para Layouts Criativos:**
-Além de imagens, exploramos as seções de inspirações de layout, incorporando elementos e ideias inovadoras que elevaram a qualidade e originalidade de nossos designs.
+- **Inovação Visual:**
+A escolha da Spline reflete nosso compromisso com a inovação visual, adicionando uma dimensão única ao design do projeto e cativando a atenção do público-alvo.
 
-- **Agilidade no Processo Criativo:**
-A facilidade de acesso e download no Freepik contribuiu para a agilidade do nosso processo criativo, permitindo que encontrássemos e incorporássemos rapidamente elementos visuais relevantes ao nosso projeto.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Desenvolvedores
-
-
+<h1  align="center">🤝 Desenvolvedores</h1>
 
 <table style: align="center">
     
