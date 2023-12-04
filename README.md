@@ -46,7 +46,7 @@ Bem-vindo ao portal dedicado à rica e diversa comunidade Quilombola do Brasil, 
 
 - **Copiar e Colar o Link Abaixo na URL do seu Navegador <br>**
 ```
-https://udieloliveira.github.io/UdielBarbearia.github.io/
+https://pjct-quilombolas.vercel.app/
 ```
 # Sobre o Site
 
