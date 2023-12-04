@@ -24,7 +24,7 @@
 
 # Introdução
 
-Bem-vindo ao portal dedicado à rica e diversa comunidade Quilombola do Brasil. Este espaço foi criado com o objetivo de proporcionar uma visão abrangente e aprofundada sobre os diversos aspectos que compõem a identidade e a história dessas comunidades, que desempenham um papel crucial na construção da tapeçaria cultural do nosso país.
+Bem-vindo ao portal dedicado à rica e diversa comunidade Quilombola do Brasil, como parte do Projeto Quilombolas, uma iniciativa nascida na Etec de Carapicuíba, idealizada pelo curso de Desenvolvimento de Sistemas. Este espaço foi criado com o objetivo de proporcionar uma visão abrangente e aprofundada sobre os diversos aspectos que compõem a identidade e a história dessas comunidades, que desempenham um papel crucial na construção da tapeçaria cultural do nosso país. Nosso propósito é trazer à luz as culturas originárias do Brasil, muitas vezes negligenciadas na atualidade. Neste projeto, buscamos abordar a riqueza cultural dos Quilombolas
 
 # Abrindo o Site
 
@@ -112,26 +112,17 @@ Explore ritmo e tradição em danças como tambor crioula, samba de roda, jongo 
 - **Religião e Espiritualidade:**
 Adentre o universo espiritual das comunidades Quilombolas, onde diferentes práticas religiosas, como catolicismo, umbanda e candomblé, se entrelaçam à vida cotidiana. Descubra a espiritualidade que permeia celebrações.
 
+## Sobre a Equipe
 
+![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/29031b48-0f95-454e-8bab-1e156b6ab7ea)
 
+## Nosso propósito é trazer à luz as culturas originárias do Brasil, muitas vezes negligenciadas na atualidade. Neste projeto, buscamos abordar a riqueza cultural dos Quilombolas, destacando dois pilares fundamentais:
 
+- **Inovação:**
+Partindo da premissa de inovação, buscamos apresentar a cultura brasileira de maneira moderna. Inspirados por projetos inovadores, incorporamos elementos como modelos 3Ds, interações dinâmicas com o usuário, carrosséis utilizando a biblioteca SwiperJS, e animações envolventes com a biblioteca AOS, proporcionando uma experiência única e envolvente.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **Cultura:**
+No coração deste projeto está a valorização da cultura. Reconhecemos as origens frequentemente esquecidas do nosso país, com especial enfoque nos Quilombolas. Ao explorar suas atividades, modos de vida, danças, músicas e religiões, buscamos criar uma ponte entre as tradições dos Quilombolas e a cultura contemporânea, resgatando e celebrando essas ricas heranças.
 
 <h1  align="center">🤝 Desenvolvedores</h1>
 
