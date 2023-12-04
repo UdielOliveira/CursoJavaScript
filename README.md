@@ -137,6 +137,141 @@ No coração deste projeto está a valorização da cultura. Reconhecemos as ori
 
 <h1  align="center">🤝 Desenvolvedores</h1>
 
+
+# Ferramentas de Prototipação
+
+<!--Figma-->
+<img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/6053d8ff-13d3-4e38-94d2-c1e70c6941e0"/>
+
+
+### Em nosso projeto, optamos pelo Figma para a prototipação do site. Esta escolha se mostrou fundamental para alcançar um design coeso e funcional. Destacamos as seguintes áreas de aplicação:
+
+- **Layouts Personalizados:**
+Utilizamos o Figma para criar layouts personalizados que atendem às necessidades específicas do nosso projeto, garantindo uma identidade visual única.
+
+- **Design de Botões:**
+A ferramenta foi empregada na concepção de botões, proporcionando não apenas uma estética atraente, mas também uma análise prática da disposição e interação destes elementos.
+
+- **Iconografia Harmonizada:**
+A vasta biblioteca de ícones do Figma facilitou a escolha e implementação de ícones consistentes, contribuindo para uma experiência de usuário mais intuitiva.
+
+- **Iterações Eficientes:**
+A capacidade de realizar iterações rápidas e colaborativas no Figma permitiu que refinássemos continuamente nosso design, garantindo um resultado final alinhado com as expectativas e requisitos do projeto.
+
+
+<!--Freepik-->
+<img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/9ccaeb1f-0f4d-49e3-ace1-e50b9b7683c8"/>
+
+### No decorrer do projeto, o Freepik desempenhou um papel crucial na obtenção de recursos visuais de alta qualidade. Destacamos as seguintes áreas de aplicação:
+
+- **Seleção de Imagens Impactantes:**
+Utilizamos o Freepik para selecionar imagens que não apenas atendem às nossas necessidades específicas, mas também agregam valor estético e impacto visual aos nossos projetos.
+
+- **Diversidade de Estilos e Temas:**
+A variedade de estilos e temas disponíveis no Freepik permitiu que explorássemos diferentes direções visuais, garantindo que nossos designs fossem versáteis e cativantes.
+
+- **Referências para Layouts Criativos:**
+Além de imagens, exploramos as seções de inspirações de layout, incorporando elementos e ideias inovadoras que elevaram a qualidade e originalidade de nossos designs.
+
+- **Agilidade no Processo Criativo:**
+A facilidade de acesso e download no Freepik contribuiu para a agilidade do nosso processo criativo, permitindo que encontrássemos e incorporássemos rapidamente elementos visuais relevantes ao nosso projeto.
+
+
+<!--Photoshop-->
+<img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/e8b565f4-bab7-4cc0-a797-8262f096812c"/>
+
+### Nesse projeto, adotamos o Photoshop para a edição de imagens de alta qualidade e como fonte de inspiração para o layout. Destacamos as seguintes áreas de aplicação:
+
+- **Aprimoramento Visual:**
+Utilizamos as poderosas ferramentas de edição do Photoshop para aprimorar a qualidade visual de imagens, garantindo uma apresentação impactante e profissional.
+
+- **Composição de Layouts Inspiradores:**
+Exploramos a versatilidade do Photoshop para criar composições visuais que serviram como fonte de inspiração para a estrutura e disposição de elementos em nosso projeto.
+
+- **Criação de Elementos Gráficos:**
+A capacidade de criar elementos gráficos personalizados no Photoshop contribuiu para a elaboração de elementos visuais exclusivos que enriqueceram a identidade visual do projeto.
+
+- **Revisão de Protótipos Visuais:**
+Utilizamos o Photoshop para revisar protótipos visuais, proporcionando uma representação mais fiel de como os elementos visuais interagiriam no produto final.
+
+
+
+# Bibliotecas Ultilizadas
+
+> ### Bibliotecas JavaScript desempenham um papel fundamental no desenvolvimento web contemporâneo, oferecendo conjuntos de funções e códigos pré-escritos que facilitam a implementação de diversas funcionalidades em um site. Estas bibliotecas são valiosas ferramentas que proporcionam eficiência, padronização e aceleram o processo de criação de aplicações interativas na web.
+
+<!--SWwiper Js-->
+<img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/967f1725-25c9-4a16-a14c-38a7de7e1df2"/>
+
+### No decorrer do nosso último projeto, o Freepik desempenhou um papel crucial na obtenção de recursos visuais de alta qualidade. Destacamos as seguintes áreas de aplicação:
+
+- **Seleção de Imagens Impactantes:**
+Utilizamos o Freepik para selecionar imagens que não apenas atendem às nossas necessidades específicas, mas também agregam valor estético e impacto visual aos nossos projetos.
+
+- **Diversidade de Estilos e Temas:**
+A variedade de estilos e temas disponíveis no Freepik permitiu que explorássemos diferentes direções visuais, garantindo que nossos designs fossem versáteis e cativantes.
+
+- **Referências para Layouts Criativos:**
+Além de imagens, exploramos as seções de inspirações de layout, incorporando elementos e ideias inovadoras que elevaram a qualidade e originalidade de nossos designs.
+
+- **Agilidade no Processo Criativo:**
+A facilidade de acesso e download no Freepik contribuiu para a agilidade do nosso processo criativo, permitindo que encontrássemos e incorporássemos rapidamente elementos visuais relevantes ao nosso projeto.
+
+<!--AOS-->
+<img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/eb3ff51c-0e63-48d1-a694-d08fd9edcc6c"/>
+
+### No decorrer do nosso último projeto, o Freepik desempenhou um papel crucial na obtenção de recursos visuais de alta qualidade. Destacamos as seguintes áreas de aplicação:
+
+- **Seleção de Imagens Impactantes:**
+Utilizamos o Freepik para selecionar imagens que não apenas atendem às nossas necessidades específicas, mas também agregam valor estético e impacto visual aos nossos projetos.
+
+- **Diversidade de Estilos e Temas:**
+A variedade de estilos e temas disponíveis no Freepik permitiu que explorássemos diferentes direções visuais, garantindo que nossos designs fossem versáteis e cativantes.
+
+- **Referências para Layouts Criativos:**
+Além de imagens, exploramos as seções de inspirações de layout, incorporando elementos e ideias inovadoras que elevaram a qualidade e originalidade de nossos designs.
+
+- **Agilidade no Processo Criativo:**
+A facilidade de acesso e download no Freepik contribuiu para a agilidade do nosso processo criativo, permitindo que encontrássemos e incorporássemos rapidamente elementos visuais relevantes ao nosso projeto.
+
+<!--SplineJs-->
+<img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/546723f1-70f3-4457-b272-41642bfaccef"/>
+
+### No decorrer do nosso último projeto, o Freepik desempenhou um papel crucial na obtenção de recursos visuais de alta qualidade. Destacamos as seguintes áreas de aplicação:
+
+- **Seleção de Imagens Impactantes:**
+Utilizamos o Freepik para selecionar imagens que não apenas atendem às nossas necessidades específicas, mas também agregam valor estético e impacto visual aos nossos projetos.
+
+- **Diversidade de Estilos e Temas:**
+A variedade de estilos e temas disponíveis no Freepik permitiu que explorássemos diferentes direções visuais, garantindo que nossos designs fossem versáteis e cativantes.
+
+- **Referências para Layouts Criativos:**
+Além de imagens, exploramos as seções de inspirações de layout, incorporando elementos e ideias inovadoras que elevaram a qualidade e originalidade de nossos designs.
+
+- **Agilidade no Processo Criativo:**
+A facilidade de acesso e download no Freepik contribuiu para a agilidade do nosso processo criativo, permitindo que encontrássemos e incorporássemos rapidamente elementos visuais relevantes ao nosso projeto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Desenvolvedores
+
+
+
 <table style: align="center">
     
 <td align="center">
