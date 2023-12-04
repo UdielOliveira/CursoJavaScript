@@ -74,6 +74,8 @@ Descubra como as comunidades Quilombolas se estendem do litoral ao interior do B
 - **Zumbi dos Palmares:**
 Conheça a figura icônica de Zumbi dos Palmares, líder do Quilombo dos Palmares, e sua impactante história de luta pela liberdade. Descubra o legado duradouro que continua a inspirar gerações.
 
+> Acesse essa parte do site [clicando aqui](https://pjct-quilombolas.vercel.app/lugares)
+
 ## Produção
 
 ![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/0a57ba0a-efdf-4439-bb60-406dd38d1c96)
@@ -95,6 +97,8 @@ Adentre o mundo do artesanato Quilombola, onde cada peça única conta uma hist�
 - **Materiais Únicos:**
 Explore a versatilidade da palha de bananeira, o brilho do capim dourado e a resistência da piaçava, revelando a conexão singular com a natureza.
 
+> Acesse essa parte do site [clicando aqui](https://pjct-quilombolas.vercel.app/producao)
+
 ## Cultura
 
 ![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/f0aa9059-cb46-4452-9a4b-daa9c70504cf)
@@ -113,6 +117,9 @@ Explore ritmo e tradição em danças como tambor crioula, samba de roda, jongo 
 - **Religião e Espiritualidade:**
 Adentre o universo espiritual das comunidades Quilombolas, onde diferentes práticas religiosas, como catolicismo, umbanda e candomblé, se entrelaçam à vida cotidiana. Descubra a espiritualidade que permeia celebrações.
 
+> Acesse essa parte do site [clicando aqui](https://pjct-quilombolas.vercel.app/cultura)
+
+
 ## Sobre a Equipe
 
 ![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/29031b48-0f95-454e-8bab-1e156b6ab7ea)
@@ -124,6 +131,8 @@ Partindo da premissa de inovação, buscamos apresentar a cultura brasileira de 
 
 - **Cultura:**
 No coração deste projeto está a valorização da cultura. Reconhecemos as origens frequentemente esquecidas do nosso país, com especial enfoque nos Quilombolas. Ao explorar suas atividades, modos de vida, danças, músicas e religiões, buscamos criar uma ponte entre as tradições dos Quilombolas e a cultura contemporânea, resgatando e celebrando essas ricas heranças.
+
+> Acesse essa parte do site [clicando aqui](https://pjct-quilombolas.vercel.app/sobre)
 
 <h1  align="center">🤝 Desenvolvedores</h1>
 
