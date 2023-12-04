@@ -262,8 +262,10 @@ A implementação da Biblioteca Spline facilitou a interação do usuário com o
 
 - **Inovação Visual:**
 A escolha da Spline reflete nosso compromisso com a inovação visual, adicionando uma dimensão única ao design do projeto e cativando a atenção do público-alvo.
+<br><br>
 
-<h1  align="center">🤝 Desenvolvedores</h1>
+![Desenvolvedores](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/628e8457-6cf2-4fee-8944-fdb6afc24933)
+
 
 <table style: align="center">
     
