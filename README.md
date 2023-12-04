@@ -94,6 +94,35 @@ Adentre o mundo do artesanato Quilombola, onde cada peça única conta uma hist�
 - **Materiais Únicos:**
 Explore a versatilidade da palha de bananeira, o brilho do capim dourado e a resistência da piaçava, revelando a conexão singular com a natureza.
 
+## Cultura
+
+![image](https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/f0aa9059-cb46-4452-9a4b-daa9c70504cf)
+
+## Na pagina de Cultura do nosso site voce vai explorar os seguinte topicos:
+
+- **Movimentos Sociais e Conexões:**
+Descubra como a comunidade Quilombola se conecta com movimentos sociais contemporâneos, incluindo o impacto global do Black Lives Matter. Conecte-se a histórias que transcendem fronteiras.
+
+- **Culinária Quilombola:**
+Deleite-se com os sabores autênticos dos pratos quilombolas, como feijoada, tapioca, maniçoba e acarajé. Conheça histórias por trás de tradições culinárias irresistíveis.
+
+- **Danças que Contam Histórias:**
+Explore ritmo e tradição em danças como tambor crioula, samba de roda, jongo e capoeira. Cada movimento conta histórias ricas de resistência e celebração.
+
+- **Religião e Espiritualidade:**
+Adentre o universo espiritual das comunidades Quilombolas, onde diferentes práticas religiosas, como catolicismo, umbanda e candomblé, se entrelaçam à vida cotidiana. Descubra a espiritualidade que permeia celebrações.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
