@@ -5,9 +5,6 @@
 <img src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/331b60b5-3267-41bc-93cf-86f338e252cb"/><br>
 </div>
 
-
-
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 <div align="center">
 
 #
@@ -188,4 +185,4 @@ No coração deste projeto está a valorização da cultura. Reconhecemos as ori
 </td> 
 </table>
     
-[⬆ VOLTAR AO TOPO](#inicio)<br>
+[⬆ VOLTAR AO TOPO](#inicio)
