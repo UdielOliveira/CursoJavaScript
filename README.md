@@ -138,11 +138,13 @@ No coração deste projeto está a valorização da cultura. Reconhecemos as ori
 
 # Ferramentas de Prototipação
 
-> ### Ferramentas de prototipação são softwares especializados projetados para auxiliar designers e desenvolvedores na criação de modelos interativos que representam a interface e a funcionalidade de um website ou aplicativo. Elas possibilitam a visualização e teste de conceitos antes da implementação final, economizando tempo, recursos e assegurando uma experiência de usuário mais refinada.
+> ## Ferramentas de prototipação são softwares especializados projetados para auxiliar designers e desenvolvedores na criação de modelos interativos que representam a interface e a funcionalidade de um website ou aplicativo. Elas possibilitam a visualização e teste de conceitos antes da implementação final, economizando tempo, recursos e assegurando uma experiência de usuário mais refinada.
 
 <!--Figma-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/6053d8ff-13d3-4e38-94d2-c1e70c6941e0"/>
+<br>
 
+> O Figma é uma plataforma de design colaborativo baseada em nuvem, destinada à criação de interfaces de usuário, prototipagem interativa e colaboração em tempo real. Possui uma interface intuitiva e é amplamente utilizado por equipes de design para criar wireframes, layouts e protótipos de alta qualidade
 
 ### Em nosso projeto, optamos pelo Figma para a prototipação do site. Esta escolha se mostrou fundamental para alcançar um design coeso e funcional. Destacamos as seguintes áreas de aplicação:
 
@@ -161,6 +163,9 @@ A capacidade de realizar iterações rápidas e colaborativas no Figma permitiu 
 
 <!--Freepik-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/9ccaeb1f-0f4d-49e3-ace1-e50b9b7683c8"/>
+<br>
+
+> O Freepik é uma plataforma que oferece uma vasta biblioteca de recursos visuais gratuitos e premium, incluindo imagens, ícones, vetores e inspirações de layout. É uma fonte valiosa para designers que buscam elementos visuais de alta qualidade para enriquecer seus projetos.
 
 ### No decorrer do projeto, o Freepik desempenhou um papel crucial na obtenção de recursos visuais de alta qualidade. Destacamos as seguintes áreas de aplicação:
 
@@ -179,6 +184,9 @@ A facilidade de acesso e download no Freepik contribuiu para a agilidade do noss
 
 <!--Photoshop-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/e8b565f4-bab7-4cc0-a797-8262f096812c"/>
+<br>
+
+> O Photoshop é uma ferramenta poderosa de edição de imagens que evoluiu para incluir recursos de design de interface. Amplamente reconhecido, o Photoshop oferece controle detalhado sobre elementos visuais, permitindo a criação de gráficos, layouts e edições de imagem sofisticadas.
 
 ### Nesse projeto, adotamos o Photoshop para a edição de imagens de alta qualidade e como fonte de inspiração para o layout. Destacamos as seguintes áreas de aplicação:
 
@@ -198,10 +206,13 @@ Utilizamos o Photoshop para revisar protótipos visuais, proporcionando uma repr
 
 # Bibliotecas Ultilizadas
 
-> ### Bibliotecas JavaScript desempenham um papel fundamental no desenvolvimento web contemporâneo, oferecendo conjuntos de funções e códigos pré-escritos que facilitam a implementação de diversas funcionalidades em um site. Estas bibliotecas são valiosas ferramentas que proporcionam eficiência, padronização e aceleram o processo de criação de aplicações interativas na web.
+> ## Bibliotecas JavaScript desempenham um papel fundamental no desenvolvimento web contemporâneo, oferecendo conjuntos de funções e códigos pré-escritos que facilitam a implementação de diversas funcionalidades em um site. Estas bibliotecas são valiosas ferramentas que proporcionam eficiência, padronização e aceleram o processo de criação de aplicações interativas na web.
 
 <!--SWwiper Js-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/967f1725-25c9-4a16-a14c-38a7de7e1df2"/>
+<br>
+
+> Swiper.js é uma biblioteca JavaScript altamente flexível e fácil de usar para criar carrosséis e sliders responsivos. Ela permite a criação de interfaces interativas e dinâmicas, melhorando a experiência do usuário ao navegar por diferentes conteúdos em dispositivos móveis e desktops.
 
 ### Nesse projeto, a escolha da Biblioteca Swiper JS para a maioria dos sliders revelou-se fundamental para criar uma interface dinâmica e envolvente. Destacamos as seguintes áreas de aplicação:
 
@@ -220,6 +231,9 @@ Garantimos uma experiência consistente em dispositivos de diferentes tamanhos, 
 
 <!--AOS-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/eb3ff51c-0e63-48d1-a694-d08fd9edcc6c"/>
+<br>
+
+> AOS é uma biblioteca JavaScript que simplifica a implementação de animações conforme o usuário rola a página. Ela oferece uma maneira eficaz de adicionar elementos visuais animados, proporcionando uma experiência envolvente e moderna à medida que o usuário navega pelo conteúdo.
 
 ### Na construção do nosso site, a escolha da Biblioteca AOS.js para gerenciar as animações durante a rolagem foi fundamental. Destacamos as áreas específicas de aplicação desta biblioteca:
 
@@ -234,6 +248,9 @@ A biblioteca também facilitou iterações e ajustes contínuos, permitindo-nos 
 
 <!--SplineJs-->
 <img width="60%" src="https://github.com/UdielOliveira/CursoJavaScript/assets/113556350/546723f1-70f3-4457-b272-41642bfaccef"/>
+<br>
+
+> Spline.js é uma biblioteca JavaScript focada na criação de elementos 3Ds. Ela simplifica a implementação de objetos 3Ds em sites, possibilitando aos desenvolvedores adicionar elementos visuais dinâmicos e atrativos aos seus projetos web.
 
 ### Em nosso projeto recente, decidimos incorporar a Biblioteca Spline para conferir um toque inovador aos modelos 3D interativos. Destacamos as seguintes áreas de aplicação:
 
