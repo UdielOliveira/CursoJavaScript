@@ -60,6 +60,7 @@ Conheça a diversidade única das comunidades Quilombolas, formadas por descende
 - **Desafios Superados:**
 Apesar das contribuições valiosas, as comunidades Quilombolas enfrentam obstáculos socioeconômicos. Saiba mais sobre suas lutas.
 
+> Acesse essa parte do site [clicando aqui](https://pjct-quilombolas.vercel.app/)
 
 ## Lugares
 
